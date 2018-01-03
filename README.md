@@ -1,2 +1,3 @@
 # hello-world
 Example number zero
+January 3, 2018 - trying to learn a bit about GitHub...
